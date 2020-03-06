@@ -1,4 +1,4 @@
-#Notes
+# Notes
 This project builds a SpringBoot project with web services and an embedded h2 DB. 
 It will build a single docker image and the container will expose the webservices and DB to you localhost. 
 
