@@ -7,5 +7,5 @@ There are 2 parts:
 + The h2 DB server is exposed on 1521
 
 The app and db run in separate docker containers on the networth-net network and can be stared/stopped using
-+ docker-start.sh
++ docker-run.sh
 + docker-stop.sh
