@@ -1,5 +1,7 @@
+
 # Notes
-This project builds a SpringBoot project with web services and an embedded h2 DB. 
+
+This project builds a SpringBoot app with web services and an embedded h2 DB. 
 It will build a single docker image and the container will expose the webservices and DB to you localhost. 
 
 1. The first thing you must do is package this maven project. This builds the jar in the ./target directory
