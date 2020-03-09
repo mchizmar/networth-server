@@ -9,7 +9,3 @@ There are 2 parts:
 The app and db run in separate docker containers on the networth-net network and can be stared/stopped using
 + docker-start.sh
 + docker-stop.sh
-
-You can now access the application through localhost.
-* http://localhost:8080/api - the REST api browser for this project. This project uses HATEOS apis. 
-* http://localhost:8082 - webui for the in memory h2 DB. You can connect without a password. 
